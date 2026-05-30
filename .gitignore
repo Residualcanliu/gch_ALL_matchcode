@@ -1,0 +1,6 @@
+.idea/
+.venv/
+软著代码/
+CVIT手势识别模型/
+*.pyc
+__pycache__/
